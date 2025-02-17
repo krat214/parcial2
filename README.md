@@ -94,7 +94,7 @@ Los mensajes están almacenados en archivos **.properties** dentro de `src/main/
 ## 📂 Estructura del Proyecto
 
 ```
-📦 src/main/java/com/example/demo/
+📦 src/main/java/com/parcial2/
  ┣ 📂 config/ → Configuración de i18n
  ┃ ┗ 📜 ConfiguracionInternacionalizacion.java
  ┣ 📂 controllers/ → Controlador REST
