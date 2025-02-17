@@ -16,7 +16,7 @@ Este proyecto es una aplicación **Spring Boot** con soporte para **internaciona
 ### 1️⃣ Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tuusuario/proyecto-spring-i18n.git
+git clone https://github.com/krat214/parcial2.git
 cd proyecto-spring-i18n
 ```
 
